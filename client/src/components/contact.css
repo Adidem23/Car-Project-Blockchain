@@ -1,0 +1,6 @@
+.form678{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: auto;
+}

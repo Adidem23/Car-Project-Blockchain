@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "create-react-app": "^5.0.1",
+    "gsap-plugin": "^5.0.8",
+    "hardhat": "^2.13.0",
+    "react-router-dom": "^6.9.0"
+  }
+}
